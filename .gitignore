@@ -1,0 +1,19 @@
+venv/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+# Local source data contains personal resume documents and extracted text.
+data/raw/
+data/processed/cleaned_resumes.csv
+data/processed/extracted_resumes.csv
+Resume - Resume.csv
+
+# Local test/error exports may contain resume text.
+models/error_analysis.csv
+models/sample_test_resumes.json
+
+# Downloaded archives and local notebook/editor files.
+*.zip
+.ipynb_checkpoints/
+.vscode/

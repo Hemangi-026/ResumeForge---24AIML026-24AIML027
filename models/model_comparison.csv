@@ -1,0 +1,5 @@
+model,accuracy,macro_f1,weighted_f1,macro_precision,macro_recall
+Word2Vec + BiLSTM,0.8427,0.8011,0.8355,0.8092,0.8054
+Linear SVM,0.6747,0.6289,0.6639,0.6363,0.6355
+Logistic Regression,0.6507,0.6209,0.6388,0.6735,0.6214
+Multinomial Naive Bayes,0.5547,0.4985,0.5321,0.5308,0.5165

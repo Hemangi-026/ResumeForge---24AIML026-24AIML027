@@ -1,0 +1,242 @@
+{
+  "ACCOUNTANT": [
+    "accounting",
+    "account",
+    "financial",
+    "company",
+    "state",
+    "accountant",
+    "city",
+    "city state"
+  ],
+  "ADVOCATE": [
+    "customer",
+    "state",
+    "city",
+    "service",
+    "city state",
+    "company",
+    "name",
+    "company name"
+  ],
+  "AGRICULTURE": [
+    "state",
+    "city",
+    "city state",
+    "company",
+    "agriculture",
+    "name",
+    "company name",
+    "management"
+  ],
+  "APPAREL": [
+    "state",
+    "company",
+    "city",
+    "customer",
+    "city state",
+    "sale",
+    "name",
+    "company name"
+  ],
+  "ARTS": [
+    "state",
+    "student",
+    "city",
+    "art",
+    "city state",
+    "company",
+    "name",
+    "company name"
+  ],
+  "AUTOMOBILE": [
+    "customer",
+    "state",
+    "company",
+    "city",
+    "service",
+    "city state",
+    "name",
+    "tibco"
+  ],
+  "AVIATION": [
+    "aviation",
+    "state",
+    "city",
+    "system",
+    "city state",
+    "company",
+    "management",
+    "aircraft"
+  ],
+  "BANKING": [
+    "management",
+    "business",
+    "state",
+    "company",
+    "customer",
+    "city",
+    "service",
+    "client"
+  ],
+  "BPO": [
+    "management",
+    "client",
+    "team",
+    "company",
+    "process",
+    "service",
+    "city",
+    "name"
+  ],
+  "BUSINESS-DEVELOPMENT": [
+    "sale",
+    "business",
+    "company",
+    "state",
+    "development",
+    "customer",
+    "city",
+    "city state"
+  ],
+  "CHEF": [
+    "food",
+    "chef",
+    "state",
+    "city",
+    "city state",
+    "kitchen",
+    "company",
+    "culinary"
+  ],
+  "CONSTRUCTION": [
+    "project",
+    "construction",
+    "state",
+    "city",
+    "company",
+    "city state",
+    "management",
+    "name"
+  ],
+  "CONSULTANT": [
+    "management",
+    "company",
+    "state",
+    "business",
+    "city",
+    "city state",
+    "system",
+    "name"
+  ],
+  "DESIGNER": [
+    "design",
+    "state",
+    "city",
+    "city state",
+    "company",
+    "designer",
+    "name",
+    "company name"
+  ],
+  "DIGITAL-MEDIA": [
+    "marketing",
+    "company",
+    "state",
+    "medium",
+    "city",
+    "city state",
+    "name",
+    "company name"
+  ],
+  "ENGINEERING": [
+    "engineering",
+    "project",
+    "system",
+    "company",
+    "city",
+    "state",
+    "city state",
+    "management"
+  ],
+  "FINANCE": [
+    "financial",
+    "company",
+    "management",
+    "finance",
+    "state",
+    "city",
+    "accounting",
+    "city state"
+  ],
+  "FITNESS": [
+    "fitness",
+    "state",
+    "city",
+    "company",
+    "city state",
+    "customer",
+    "name",
+    "company name"
+  ],
+  "HEALTHCARE": [
+    "state",
+    "patient",
+    "city",
+    "city state",
+    "company",
+    "management",
+    "customer",
+    "service"
+  ],
+  "HR": [
+    "employee",
+    "hr",
+    "management",
+    "company",
+    "state",
+    "resource",
+    "human",
+    "human resource"
+  ],
+  "INFORMATION-TECHNOLOGY": [
+    "system",
+    "management",
+    "information",
+    "technology",
+    "network",
+    "project",
+    "support",
+    "state"
+  ],
+  "PUBLIC-RELATIONS": [
+    "medium",
+    "company",
+    "relation",
+    "public",
+    "marketing",
+    "state",
+    "city",
+    "communication"
+  ],
+  "SALES": [
+    "customer",
+    "sale",
+    "company",
+    "state",
+    "city",
+    "city state",
+    "service",
+    "name"
+  ],
+  "TEACHER": [
+    "student",
+    "state",
+    "teacher",
+    "city",
+    "city state",
+    "company",
+    "education",
+    "name"
+  ]
+}
